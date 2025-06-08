@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/RT/MLPROJECT/END_TO_END_ML/mlruns/0/c6dbd65b39b14457b4672726329204e7/artifacts
+end_time: 1749411787009
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c6dbd65b39b14457b4672726329204e7
+run_name: vaunted-lamb-174
+run_uuid: c6dbd65b39b14457b4672726329204e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749411775875
+status: 3
+tags: []
+user_id: ravit

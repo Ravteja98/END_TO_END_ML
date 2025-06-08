@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/RT/MLPROJECT/END_TO_END_ML/mlruns/0/ebd353002a8f4f658729dce7de13ec90/artifacts
+end_time: 1749412075457
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebd353002a8f4f658729dce7de13ec90
+run_name: mysterious-lynx-573
+run_uuid: ebd353002a8f4f658729dce7de13ec90
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749412069497
+status: 3
+tags: []
+user_id: ravit

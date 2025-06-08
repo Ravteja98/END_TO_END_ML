@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/RT/MLPROJECT/END_TO_END_ML/mlruns/0/a604f21c4c904179b45fb67849d416a9/artifacts
+end_time: 1749417862369
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a604f21c4c904179b45fb67849d416a9
+run_name: adorable-hawk-955
+run_uuid: a604f21c4c904179b45fb67849d416a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749417849465
+status: 3
+tags: []
+user_id: ravit

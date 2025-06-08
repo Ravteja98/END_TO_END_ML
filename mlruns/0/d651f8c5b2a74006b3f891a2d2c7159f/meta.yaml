@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/RT/MLPROJECT/END_TO_END_ML/mlruns/0/d651f8c5b2a74006b3f891a2d2c7159f/artifacts
+end_time: 1749413920566
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d651f8c5b2a74006b3f891a2d2c7159f
+run_name: smiling-duck-831
+run_uuid: d651f8c5b2a74006b3f891a2d2c7159f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749413913260
+status: 3
+tags: []
+user_id: ravit
