@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/RT/MLPROJECT/END_TO_END_ML/mlruns/0/f3c1dc48c51e45c6bcabf75573aa460a/artifacts
+end_time: 1749419048159
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f3c1dc48c51e45c6bcabf75573aa460a
+run_name: whimsical-hen-371
+run_uuid: f3c1dc48c51e45c6bcabf75573aa460a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749419042673
+status: 3
+tags: []
+user_id: ravit

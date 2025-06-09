@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/RT/MLPROJECT/END_TO_END_ML/mlruns/0/a1028d72fc2c481c95adaf8591e1992b/artifacts
+end_time: 1749497049002
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a1028d72fc2c481c95adaf8591e1992b
+run_name: serious-fish-456
+run_uuid: a1028d72fc2c481c95adaf8591e1992b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749497044298
+status: 3
+tags: []
+user_id: ravit

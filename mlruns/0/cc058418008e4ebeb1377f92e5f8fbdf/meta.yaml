@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/RT/MLPROJECT/END_TO_END_ML/mlruns/0/cc058418008e4ebeb1377f92e5f8fbdf/artifacts
+end_time: 1749496536477
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cc058418008e4ebeb1377f92e5f8fbdf
+run_name: loud-jay-193
+run_uuid: cc058418008e4ebeb1377f92e5f8fbdf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749496528679
+status: 3
+tags: []
+user_id: ravit

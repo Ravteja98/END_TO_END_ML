@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/RT/MLPROJECT/END_TO_END_ML/mlruns/0/c12eca15013048fe8134d5b98f4c37f8/artifacts
+end_time: 1749497144756
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c12eca15013048fe8134d5b98f4c37f8
+run_name: adaptable-stoat-567
+run_uuid: c12eca15013048fe8134d5b98f4c37f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749497140188
+status: 3
+tags: []
+user_id: ravit
