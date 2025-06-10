@@ -59,7 +59,7 @@ open up you local host and port
 ##### cmd
 - mlflow ui
 
-<!-- ### dagshub
+### dagshub
 [dagshub](https://dagshub.com/)
 
 MLFLOW_TRACKING_URI=https://dagshub.com/Ravteja98/END_TO_END_ML.mlflow
@@ -155,7 +155,7 @@ export MLFLOW_TRACKING_PASSWORD=d4efb17e7965712913e5602e4369c817bb5072e9
     ECR_REPOSITORY_NAME = simple-app
 
 
- -->
+
 
 ## About MLflow 
 MLflow
